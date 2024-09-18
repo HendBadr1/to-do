@@ -1,6 +1,6 @@
-import 'dart:ui';
+
+import 'package:flutter/material.dart';
 
 class AppColors {
- static Color grey=Color(0xff8E8E8E);
-
+ static const Color appcolor = Color(0xff90B6E2);
 }
